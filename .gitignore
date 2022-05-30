@@ -1,0 +1,28 @@
+# Build
+*.pyc
+*.egg-info
+__pycache__
+build
+_build
+dist
+
+# Misc
+.env
+*.swp
+
+# Mac
+.DS_Store
+
+# Code Editor
+.idea
+.vscode
+
+# exp
+model_zoo_exp
+bert_*
+roberta_*
+squad
+example
+post_result.py
+# jupyter
+.ipynb_checkpoints
